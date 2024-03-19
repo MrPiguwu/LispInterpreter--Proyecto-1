@@ -2,11 +2,11 @@ package uvg.edu.gt;
 
 
 import java.util.ArrayList;
-public class Condicional2 {
+public class cond2 {
     ArrayList<String> condicional=new ArrayList<String>();
     ArrayList<String> parametro1=new ArrayList<String>();
     ArrayList<String> parametro2=new ArrayList<String>();
-    Condicional c=new Condicional();
+    cond c=new cond();
 
     public void setarrays(String codigo){
         StringBuilder palabara1= new StringBuilder(codigo);
