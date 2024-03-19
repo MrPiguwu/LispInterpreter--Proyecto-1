@@ -3,7 +3,7 @@ package uvg.edu.gt;
 
 import java.util.ArrayList;
 import java.util.Collections;
-public class Condicional {
+public class cond {
 
     public static boolean Calculo(String expresion){
         String str1 = "";
